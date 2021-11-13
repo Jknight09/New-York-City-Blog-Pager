@@ -19,6 +19,7 @@ This Assignment focused on adding images, audio and video to a blog page
          <figure>
            <figcaption>This is the Statue of Liberty, a popular tourist attraction located on Ellis Island.</figcaption>
            <img src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg">
+
          </figure>
          <aside>
            <p>New York City is very popular for the variety of great food it has. Some of the top food items in NYC include:</p>
@@ -42,12 +43,7 @@ This Assignment focused on adding images, audio and video to a blog page
             <audio src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov" controls></audio>
          </section>
        </main>
-       <ul>
-         <li><a href="#item_name">New City Blog Page</a>
-         </li>
-       
-        </ul>
-     </nav>     
+      </nav>     
   </body>
   <footer id="about">
     <main>
